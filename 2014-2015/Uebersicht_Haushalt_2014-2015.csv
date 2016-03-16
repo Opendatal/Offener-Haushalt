@@ -1,7 +1,7 @@
-GB;R/A/SB-Nr.;Ressort/Amt/Stadtbetrieb;PB-Nr.;Produktbereich;PG-Nr.;Produktgruppe;P-Nr.;Produkt
+GB;R/A/SB-Nr;Ressort/Amt/Stadtbetrieb;PB-Nr;Produktbereich;PG-Nr;Produktgruppe;P-Nr;Produkt
 GB 0;000;Büro des Oberbürgermeisters;11;Innere Verwaltung;1101;Politische Gremien;1101010;Rat und Gremien / Fraktionen
 GB 0;000;Büro des Oberbürgermeisters;11;Innere Verwaltung;1103;Verwaltungsführung;1103010;Bürgerangelegenheiten und Bürgerservice
-GB 0;000;Büro des Oberbürgermeisters;11;Innere Verwaltung;1103;Verwaltungsführung;1103020;Verwaltungsleitung / Steuerungsunterst.
+GB 0;000;Büro des Oberbürgermeisters;11;Innere Verwaltung;1103;Verwaltungsführung;1103020;Verwaltungsleitung / Steuerungsunterst
 GB 0;001;Presseamt;11;Innere Verwaltung;1113;Presse- und Öffentlichkeitsarbeit;1113010;Presse- und Öffentlichkeitsarbeit
 GB 0;001;Presseamt;11;Innere Verwaltung;1113;Presse- und Öffentlichkeitsarbeit;1113020;Repräsentationen / Städtepartnerschaften
 GB 0;002;Rechnungsprüfungsamt;11;Innere Verwaltung;1112;Rechnungsprüfung;1112010;Rechnungsprüfung
@@ -9,59 +9,59 @@ GB 0;002;Rechnungsprüfungsamt;11;Innere Verwaltung;1112;Rechnungsprüfung;11120
 GB 0;003;Bürgeramt;11;Innere Verwaltung;1102;Bezirksvertretungen;1102010;Bezirksvertretungen und Ehrenamt
 GB 0;003;Bürgeramt;11;Innere Verwaltung;1122;Bürgerbüros;1122010;Bürgerbüros
 GB 0;003;Bürgeramt;11;Innere Verwaltung;1123;Service-Center;1123010;Service-Center
-GB 0;003;Bürgeramt;12;Sicherheit und Ordnung;1203;Standesamtsaufsicht / Schiedsamtsangel.;1203010;Standesamtsaufsicht / Schiedsamtsangel.
+GB 0;003;Bürgeramt;12;Sicherheit und Ordnung;1203;Standesamtsaufsicht / Schiedsamtsangel;1203010;Standesamtsaufsicht / Schiedsamtsangel
 GB 0;003;Bürgeramt;12;Sicherheit und Ordnung;1207;Einwohner- und Personenstandwesen;1207010;Einwohnerangelegenheiten
 GB 0;003;Bürgeramt;12;Sicherheit und Ordnung;1207;Einwohner- und Personenstandwesen;1207020;Personenstandswesen
 GB 0;004;Rechtsamt;11;Innere Verwaltung;1119;Recht;1119010;Rechtsangelegenheiten
-GB 0;004;Rechtsamt;11;Innere Verwaltung;1119;Recht;1119020;Versicherungsangelegenheiten d.Kommunen
-GB 0;000.4;Gleichstellungsstelle;11;Innere Verwaltung;1110;Gleichstellung von Frau und Mann;1110010;Gleichstellung von Frau und Mann
-GB 0;000.4;Gleichstellungsstelle;11;Innere Verwaltung;1136;Kompetenzzentrum Frau und Beruf;1136010;Kompetenzzentrum Frau und Beruf
-GB 1.1;100.1;GB-Büro 100.1;11;Innere Verwaltung;1104;(entfallen in 2013) Geschäftsbereichsleitung GB 1.1 ;1104010;(entfallen in 2013) GBL und Steuerungsunterstützung 
+GB 0;004;Rechtsamt;11;Innere Verwaltung;1119;Recht;1119020;Versicherungsangelegenheiten dKommunen
+GB 0;0004;Gleichstellungsstelle;11;Innere Verwaltung;1110;Gleichstellung von Frau und Mann;1110010;Gleichstellung von Frau und Mann
+GB 0;0004;Gleichstellungsstelle;11;Innere Verwaltung;1136;Kompetenzzentrum Frau und Beruf;1136010;Kompetenzzentrum Frau und Beruf
+GB 11;1001;GB-Büro 1001;11;Innere Verwaltung;1104;(entfallen in 2013) Geschäftsbereichsleitung GB 11 ;1104010;(entfallen in 2013) GBL und Steuerungsunterstützung 
 GB 1;100;GB-Büro 100;11;Innere Verwaltung;1105;Geschäftsbereichsleitung GB 1;1105010;GBL und Steuerungsunterstützung GB1
 GB 1;100;GB-Büro 100;11;Innere Verwaltung;1105;Geschäftsbereichsleitung GB 1;1105020;(entfallen in 2013) Europabüro / EU-Strukturförderung 
-GB 1;100;GB-Büro 100;11;Innere Verwaltung;1105;Geschäftsbereichsleitung GB 1;1105030;Steuer. Klimaschutz+Klimawandelanpassung
-GB 1;100;GB-Büro 100;51;Räuml.Planung, Entw., Geoinfo.;5114;(entfallen ab 2013) Projekt Regionale - o.Döppersberg ;5114010;(entfallen ab 2013) Projekt Regionale - o.Döppersberg 
-GB 1;101;Stadtentwickl.u Städtebau;12;Sicherheit und Ordnung;1210;Statistik;1210010;Auftragsstatistik
-GB 1;101;Stadtentwickl.u Städtebau;12;Sicherheit und Ordnung;1210;Statistik;1210020;Statistische Informationen
-GB 1;101;Stadtentwickl.u Städtebau;12;Sicherheit und Ordnung;1211;Wahlen;1211010;Bundestagswahl
-GB 1;101;Stadtentwickl.u Städtebau;12;Sicherheit und Ordnung;1211;Wahlen;1211020;Europawahl
-GB 1;101;Stadtentwickl.u Städtebau;12;Sicherheit und Ordnung;1211;Wahlen;1211030;Kommunalwahl
-GB 1;101;Stadtentwickl.u Städtebau;12;Sicherheit und Ordnung;1211;Wahlen;1211040;Landtagswahl
-GB 1;101;Stadtentwickl.u Städtebau;12;Sicherheit und Ordnung;1211;Wahlen;1211050;Sonstige Wahlen u. sonstige Abstimmungen
-GB 1;101;Stadtentwickl.u Städtebau;51;Räuml.Planung, Entw., Geoinfo.;5101;Räumliche Planung und Entwicklung;5101010;Stadtgestaltung und Baukultur
-GB 1;101;Stadtentwickl.u Städtebau;51;Räuml.Planung, Entw., Geoinfo.;5101;Räumliche Planung und Entwicklung;5101020;Städtebaul. Projekte u. Innenstadtentw.
-GB 1;101;Stadtentwickl.u Städtebau;51;Räuml.Planung, Entw., Geoinfo.;5101;Räumliche Planung und Entwicklung;5101030;Flächensteuerung/strat. Projektentw.
-GB 1;101;Stadtentwickl.u Städtebau;51;Räuml.Planung, Entw., Geoinfo.;5101;Räumliche Planung und Entwicklung;5101040;Handl.konzepte Stadtentwickl/-erneuerung
-GB 1;101;Stadtentwickl.u Städtebau;51;Räuml.Planung, Entw., Geoinfo.;5110;Projekte Stadtentw.Regionale/Döppersberg;5110010;Projekt Döppersberg
-GB 1;101;Stadtentwickl.u Städtebau;51;Räuml.Planung, Entw., Geoinfo.;5111;(entfallen ab 2013) Projekte Stadtentw.Regionale/Kulturachse;5111010;(entfallen ab 2013) Projekt Kulturachse Barmen
-GB 1;101;Stadtentwickl.u Städtebau;51;Räuml.Planung, Entw., Geoinfo.;5112;Projekte Stadtentw.Stadtumbau West;5112010;Projekt Stadtumbau West
-GB 1;101;Stadtentwickl.u Städtebau;51;Räuml.Planung, Entw., Geoinfo.;5116;Immobilien- und Standortgemeinschaft;5116010;Immobilien- und Standortgemeinschaft
-GB 1;102;Vermessung, Kataster, Geodaten;51;Räuml.Planung, Entw., Geoinfo.;5102;Vermessung, Katasteramt und Geodaten;5102010;Ingenieur-,Liegenschafts-,Landesvermess.
-GB 1;102;Vermessung, Kataster, Geodaten;51;Räuml.Planung, Entw., Geoinfo.;5102;Vermessung, Katasteramt und Geodaten;5102020;Führ.Bereitst. u.Abgabe Geodaten,Service
-GB 1;102;Vermessung, Kataster, Geodaten;51;Räuml.Planung, Entw., Geoinfo.;5102;Vermessung, Katasteramt und Geodaten;5102030;Gesetzliche Wertermittlung
+GB 1;100;GB-Büro 100;11;Innere Verwaltung;1105;Geschäftsbereichsleitung GB 1;1105030;Steuer Klimaschutz+Klimawandelanpassung
+GB 1;100;GB-Büro 100;51;RäumlPlanung, Entw, Geoinfo;5114;(entfallen ab 2013) Projekt Regionale - oDöppersberg ;5114010;(entfallen ab 2013) Projekt Regionale - oDöppersberg 
+GB 1;101;Stadtentwicklu Städtebau;12;Sicherheit und Ordnung;1210;Statistik;1210010;Auftragsstatistik
+GB 1;101;Stadtentwicklu Städtebau;12;Sicherheit und Ordnung;1210;Statistik;1210020;Statistische Informationen
+GB 1;101;Stadtentwicklu Städtebau;12;Sicherheit und Ordnung;1211;Wahlen;1211010;Bundestagswahl
+GB 1;101;Stadtentwicklu Städtebau;12;Sicherheit und Ordnung;1211;Wahlen;1211020;Europawahl
+GB 1;101;Stadtentwicklu Städtebau;12;Sicherheit und Ordnung;1211;Wahlen;1211030;Kommunalwahl
+GB 1;101;Stadtentwicklu Städtebau;12;Sicherheit und Ordnung;1211;Wahlen;1211040;Landtagswahl
+GB 1;101;Stadtentwicklu Städtebau;12;Sicherheit und Ordnung;1211;Wahlen;1211050;Sonstige Wahlen u sonstige Abstimmungen
+GB 1;101;Stadtentwicklu Städtebau;51;RäumlPlanung, Entw, Geoinfo;5101;Räumliche Planung und Entwicklung;5101010;Stadtgestaltung und Baukultur
+GB 1;101;Stadtentwicklu Städtebau;51;RäumlPlanung, Entw, Geoinfo;5101;Räumliche Planung und Entwicklung;5101020;Städtebaul Projekte u Innenstadtentw
+GB 1;101;Stadtentwicklu Städtebau;51;RäumlPlanung, Entw, Geoinfo;5101;Räumliche Planung und Entwicklung;5101030;Flächensteuerung/strat Projektentw
+GB 1;101;Stadtentwicklu Städtebau;51;RäumlPlanung, Entw, Geoinfo;5101;Räumliche Planung und Entwicklung;5101040;Handlkonzepte Stadtentwickl/-erneuerung
+GB 1;101;Stadtentwicklu Städtebau;51;RäumlPlanung, Entw, Geoinfo;5110;Projekte StadtentwRegionale/Döppersberg;5110010;Projekt Döppersberg
+GB 1;101;Stadtentwicklu Städtebau;51;RäumlPlanung, Entw, Geoinfo;5111;(entfallen ab 2013) Projekte StadtentwRegionale/Kulturachse;5111010;(entfallen ab 2013) Projekt Kulturachse Barmen
+GB 1;101;Stadtentwicklu Städtebau;51;RäumlPlanung, Entw, Geoinfo;5112;Projekte StadtentwStadtumbau West;5112010;Projekt Stadtumbau West
+GB 1;101;Stadtentwicklu Städtebau;51;RäumlPlanung, Entw, Geoinfo;5116;Immobilien- und Standortgemeinschaft;5116010;Immobilien- und Standortgemeinschaft
+GB 1;102;Vermessung, Kataster, Geodaten;51;RäumlPlanung, Entw, Geoinfo;5102;Vermessung, Katasteramt und Geodaten;5102010;Ingenieur-,Liegenschafts-,Landesvermess
+GB 1;102;Vermessung, Kataster, Geodaten;51;RäumlPlanung, Entw, Geoinfo;5102;Vermessung, Katasteramt und Geodaten;5102020;FührBereitst uAbgabe Geodaten,Service
+GB 1;102;Vermessung, Kataster, Geodaten;51;RäumlPlanung, Entw, Geoinfo;5102;Vermessung, Katasteramt und Geodaten;5102030;Gesetzliche Wertermittlung
 GB 1;103;Grünflächen und Forsten;55;Natur- und Landschaftspflege;5501;Öffentliches Grün;5501010;Öffentliches Grün
 GB 1;103;Grünflächen und Forsten;55;Natur- und Landschaftspflege;5501;Öffentliches Grün;5501020;Kleingartenwesen
 GB 1;103;Grünflächen und Forsten;55;Natur- und Landschaftspflege;5501;Öffentliches Grün;5501030;Natur- und Umweltbildung
-GB 1;103;Grünflächen und Forsten;55;Natur- und Landschaftspflege;5501;Öffentliches Grün;5501040;Freiraumplanung, Stadtökologie, etc.
+GB 1;103;Grünflächen und Forsten;55;Natur- und Landschaftspflege;5501;Öffentliches Grün;5501040;Freiraumplanung, Stadtökologie, etc
 GB 1;103;Grünflächen und Forsten;55;Natur- und Landschaftspflege;5503;Wald, Forst- und Landwirtschaft;5503010;Wald- und Forstwirtschaft
 GB 1;103;Grünflächen und Forsten;55;Natur- und Landschaftspflege;5506;Friedhöfe;5506010;Friedhöfe
 GB 1;104;Straßen und Verkehr;12;Sicherheit und Ordnung;1202;Öffentliche Toilettenanlagen;1202010;Öffentliche Toilettenanlagen
 GB 1;104;Straßen und Verkehr;12;Sicherheit und Ordnung;1204;Verkehrsangelegenheiten;1204010;Straßen- und Verkehrsangelegenheiten
-GB 1;104;Straßen und Verkehr;51;Räuml.Planung, Entw., Geoinfo.;5104;Verkehrliche Planung;5104010;Verkehrsplanung
+GB 1;104;Straßen und Verkehr;51;RäumlPlanung, Entw, Geoinfo;5104;Verkehrliche Planung;5104010;Verkehrsplanung
 GB 1;104;Straßen und Verkehr;54;Verkehrsflächen/-anlagen,ÖPNV;5401;Öffentliche Verkehrsflächen;5401010;Straßen, Wege und Plätze
 GB 1;104;Straßen und Verkehr;54;Verkehrsflächen/-anlagen,ÖPNV;5401;Öffentliche Verkehrsflächen;5401020;Brücken, Tunnel, Stützmauern und Treppen
 GB 1;104;Straßen und Verkehr;54;Verkehrsflächen/-anlagen,ÖPNV;5402;Verkehrstechnik;5402010;Verkehrsleitende und -regelnde Anlagen
 GB 1;104;Straßen und Verkehr;54;Verkehrsflächen/-anlagen,ÖPNV;5402;Verkehrstechnik;5402010;Öffentliche Beleuchtung
-GB 1;105;Bauen und Wohnen;31;Soziale Leistungen;3106;Subjektbezogene Förderung für Wohnraum;3106010;Wohngeld / Komm. Zuschüsse zur Miete
-GB 1;105;Bauen und Wohnen;31;Soziale Leistungen;3107;Hilfen bei Wohnproblemen;3107010;Hilfen z. Erhalt/Erlangung einer Wohnung
+GB 1;105;Bauen und Wohnen;31;Soziale Leistungen;3106;Subjektbezogene Förderung für Wohnraum;3106010;Wohngeld / Komm Zuschüsse zur Miete
+GB 1;105;Bauen und Wohnen;31;Soziale Leistungen;3107;Hilfen bei Wohnproblemen;3107010;Hilfen z Erhalt/Erlangung einer Wohnung
 GB 1;105;Bauen und Wohnen;31;Soziale Leistungen;3108;Hilfen für Wohnungslose;3108010;Bewirtschaftung Obdachlosenunterkünfte
-GB 1;105;Bauen und Wohnen;51;Räuml.Planung, Entw., Geoinfo.;5103;Grundstücksneuordnung;5103010;Bodenverkehrsgenehmigungsverfahren
-GB 1;105;Bauen und Wohnen;51;Räuml.Planung, Entw., Geoinfo.;5103;Grundstücksneuordnung;5103020;Bauleitpl. u.sonst. Städtebaul.Satzungen
+GB 1;105;Bauen und Wohnen;51;RäumlPlanung, Entw, Geoinfo;5103;Grundstücksneuordnung;5103010;Bodenverkehrsgenehmigungsverfahren
+GB 1;105;Bauen und Wohnen;51;RäumlPlanung, Entw, Geoinfo;5103;Grundstücksneuordnung;5103020;Bauleitpl usonst StädtebaulSatzungen
 GB 1;105;Bauen und Wohnen;52;Bauen und Wohnen;5201;Maßnahmen der Bauaufsicht;5201010;Bauaufsicht, Sonderbauten und Prüfungen
 GB 1;105;Bauen und Wohnen;52;Bauen und Wohnen;5202;Baubehördliche Beratung und Information;5202010;Service, Beratung und Information
 GB 1;105;Bauen und Wohnen;52;Bauen und Wohnen;5203;Denkmalschutz und Denkmalpflege;5203010;Denkmalschutz und Denkmalpflege
 GB 1;105;Bauen und Wohnen;52;Bauen und Wohnen;5204;Soziale Wohnraumförderung;5204010;Soziale Wohnraumförderung
-GB 1;105;Bauen und Wohnen;52;Bauen und Wohnen;5206;Wohnraumsicherung und -versorgung;5206010;WBS/Wohnraumverm. Kontrolle u. Aufsicht
+GB 1;105;Bauen und Wohnen;52;Bauen und Wohnen;5206;Wohnraumsicherung und -versorgung;5206010;WBS/Wohnraumverm Kontrolle u Aufsicht
 GB 1;105;Bauen und Wohnen;52;Bauen und Wohnen;5207;Wohnungsmarktbeobachtung;5207010;Mietpreisüberprüfung und Mietspiegel
 GB 1;106;Umweltschutz;53;Ver- und Entsorgung;5304;Koordinierung Abfallwirtschaft;5304010;Koordinierung Abfallwirtschaft
 GB 1;106;Umweltschutz;55;Natur- und Landschaftspflege;5502;Natur und Landschaft;5502010;Natur und Landschaft
@@ -69,94 +69,94 @@ GB 1;106;Umweltschutz;55;Natur- und Landschaftspflege;5504;Gewässerschutz;55040
 GB 1;106;Umweltschutz;56;Umweltschutz;5601;Lärm, Luft, Klima;5601010;Lärm, Luft, Klima
 GB 1;106;Umweltschutz;56;Umweltschutz;5602;Bodenschutz;5602010;Bodenschutz
 GB 1;106;Umweltschutz;56;Umweltschutz;5603;Umweltbeiträge;5603010;Umweltbeiträge
-GB 1;106;Umweltschutz;56;Umweltschutz;5604;Immissionsschutz / Betriebl.Umweltschutz;5604010;Immissionsschutz / Betriebl.Umweltschutz
+GB 1;106;Umweltschutz;56;Umweltschutz;5604;Immissionsschutz / BetrieblUmweltschutz;5604010;Immissionsschutz / BetrieblUmweltschutz
 GB 1;304;Feuerwehr;12;Sicherheit und Ordnung;1212;Brandschutz;1212010;Gefahrenabwehr
 GB 1;304;Feuerwehr;12;Sicherheit und Ordnung;1212;Brandschutz;1212020;Gefahrenvorbeugung
 GB 1;304;Feuerwehr;12;Sicherheit und Ordnung;1213;Abwehr von Großschadensereignissen;1213010;Abwehr von Großschadensereignissen
 GB 1;304;Feuerwehr;12;Sicherheit und Ordnung;1214;Rettungsdienst;1214010;Rettungsdienst (Gebührenhaushalt)
-GB 2.1;200.1;GB-Büro 200.1;11;Innere Verwaltung;1106;Geschäftsbereichsleitung GB 2.1;1106010;GBL und Steuerungsunterstützung GB2.1
-GB 2.1;200.1;GB-Büro 200.1;31;Soziale Leistungen;3101;Unterstützung von Senioren;3101010;Zuschuss zum Eigenbetrieb APH
-GB 2.1;201;Soziales;31;Soziale Leistungen;3102;Betreuung nach dem Betreuungsgesetz;3102040;Betreuung nach dem Betreuungsgesetz
-GB 2.1;201;Soziales;31;Soziale Leistungen;3103;Grundsicherung SGB II;3103050;Grundsicherung SGB II
-GB 2.1;201;Soziales;31;Soziale Leistungen;3110;Schwerbehindertenversorgung;3110010;Schwerbehindertenversorgung
-GB 2.1;201;Soziales;31;Soziale Leistungen;3110;Schwerbehindertenversorgung;3110020;Fürsorgestelle für Schwerbehinderte
-GB 2.1;201;Soziales;31;Soziale Leistungen;3113;(entfallen ab 2014) Grundversorgung und Leistungen SGB XII ;3113010;(entfallen ab 2014) Beratung und Leistung bei Behinderung 
-GB 2.1;201;Soziales;31;Soziale Leistungen;3113;(entfallen ab 2014) Grundversorgung und Leistungen SGB XII ;3113020;(entfallen ab 2014) Beratung und Lstg. bei Pflegebedürftigk.
-GB 2.1;201;Soziales;31;Soziale Leistungen;3113;(entfallen ab 2014) Grundversorgung und Leistungen SGB XII ;3113030;(entfallen ab 2014) HZL/Grundsicherung/andere soziale Lstg. 
-GB 2.1;201;Soziales;31;Soziale Leistungen;3113;(entfallen ab 2014) Grundversorgung und Leistungen SGB XII ;3113040;(entfallen ab 2014) Hilfen Gesundheit/bes.soz.Schwierigkeit 
-GB 2.1;201;Soziales;31;Soziale Leistungen;3114;Sonstige soziale Leistungen;3114010;Lastenausgleich
-GB 2.1;201;Soziales;31;Soziale Leistungen;3114;Sonstige soziale Leistungen;3114020;Leistungen der Unterhaltssicherung
-GB 2.1;201;Soziales;31;Soziale Leistungen;3117;Hilfen z.Lebensunterhalt (3.Kap.SGB XII);3117010;Hilfen z.Lebensunterhalt (3.Kap.SGB XII)
-GB 2.1;201;Soziales;31;Soziale Leistungen;3118;Grundsicherung i.Alter (4. Kap. SGB XII);3118010;Grundsicherung i.Alter (4. Kap. SGB XII)
-GB 2.1;201;Soziales;31;Soziale Leistungen;3119;Hilfen zur Gesundheit (5. Kap. SGB XII);3119010;Hilfen zur Gesundheit (5. Kap. SGB XII)
-GB 2.1;201;Soziales;31;Soziale Leistungen;3120;Eingliederungshilfe (6. Kap. SGB XII);3120010;Eingliederungshilfe (6. Kap. SGB XII)
-GB 2.1;201;Soziales;31;Soziale Leistungen;3121;Hilfe zur Pflege (7. Kap. SGB XII);3121010;Hilfe zur Pflege (7. Kap. SGB XII)
-GB 2.1;201;Soziales;31;Soziale Leistungen;3122;Hilfe bes.soz.Schwierigk.(8.Kap.SGB XII);3122010;Hilfe bes.soz.Schwierigk.(8.Kap.SGB XII)
-GB 2.1;201;Soziales;31;Soziale Leistungen;3123;Hilfe and. Lebenslagen (9. Kap. SGB XII);3123010;Hilfe and. Lebenslagen (9. Kap. SGB XII)
-GB 2.1;202;Tageseinrichtungen für Kinder;36;Kinder-, Jugend- u. Familienhilfe;3601;Förderung von Kindern in Tagesbetreuung;3601010;Betrieb städtischer Kitas
-GB 2.1;202;Tageseinrichtungen für Kinder;36;Kinder-, Jugend- u. Familienhilfe;3601;Förderung von Kindern in Tagesbetreuung;3601020;Förderung v. Einrichtungen freier Träger
-GB 2.1;202;Tageseinrichtungen für Kinder;36;Kinder-, Jugend- u. Familienhilfe;3602;Tagespflege;3602010;Tagespflege
-GB 2.1;204;Zuwanderung und Integration;12;Sicherheit und Ordnung;1209;Regelung des Aufenthalts von Ausländern;1209010;Aufenthaltsrechtliche Angel. ABH
-GB 2.1;204;Zuwanderung und Integration;21;Schulträgeraufgaben;2102;(entfallen ab 2013) Integrationsmaßn.f.KiJu aus Zuw.fam.;2102010;(entfallen ab 2013) Integrationsmaßn.f.KiJu aus Zuw.fam.
-GB 2.1;204;Zuwanderung und Integration;31;Soziale Leistungen;3105;Hilfen nach AsylBLG;3105010;Hilfen nach AsylBLG
-GB 2.1;204;Zuwanderung und Integration;31;Soziale Leistungen;3105;Hilfen nach AsylBLG;3105020;gesperrt: Hilfen nach dem SGB XII für Fl
-GB 2.1;204;Zuwanderung und Integration;31;Soziale Leistungen;3105;Hilfen nach AsylBLG;3105030;gesperrt: Integrations- und Migrationsma
-GB 2.1;204;Zuwanderung und Integration;31;Soziale Leistungen;3109;Hilfen für Migranten bei Wohnproblemen;3109010;Verwaltung+Betrieb Übergangseinrichtung.
-GB 2.1;204;Zuwanderung und Integration;31;Soziale Leistungen;3115;Hilfen nach dem SGB XII für Flüchtlinge;3115010;Hilfen nach dem SGB XII für Flüchtlinge
-GB 2.1;204;Zuwanderung und Integration;31;Soziale Leistungen;3116;Zentrum Integr./ Bildg., kult. Vielfalt;3116010;(entfallen ab  2013) Integrations-/Migrationsmanagement
-GB 2.1;204;Zuwanderung und Integration;31;Soziale Leistungen;3116;Zentrum Integr./ Bildg., kult. Vielfalt;3116020;Zentrum Integrat./Bildung, kult.Vielfalt
-GB 2.1;208;Kinder, Jugend und Familie;31;Soziale Leistungen;3112;Lstg. n.d.UVG+Heranzieh.außerh.Einricht.;3112010;Unterhaltsvorschuss
-GB 2.1;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u. Familienhilfe;3603;Einrichtungen der Jugendarbeit;3603010;Förd. KiJu in offenen Einrichtungen
-GB 2.1;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u. Familienhilfe;3603;Einrichtungen der Jugendarbeit;3603060;Pl./Weiterentw. Freiräume u.Spielflächen
-GB 2.1;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u. Familienhilfe;3604;Haus der Jugend Barmen;3604010;HdJ Bamen BGA
-GB 2.1;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u. Familienhilfe;3605;Leist. z.Förd.junger Menschen u.Familien;3605010;Hilfen z.Erziehung u.präventive Projekte
-GB 2.1;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u. Familienhilfe;3605;Leist. z.Förd.junger Menschen u.Familien;3605050;Beistandschaften
-GB 2.1;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u. Familienhilfe;3609;Elterngeld;3609010;Elterngeld
-GB 2.1;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u. Familienhilfe;3610;Förd. KiJu außerhalb von Einrichtungen;3610010;Förd. KiJu außerhalb von  Einrichtungen
-GB 2.1;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u. Familienhilfe;3611;Familien- u. Schulpsychol. Beratung;3611010;Familien- u. Schulpsychol. Beratung
-GB 2.1;208;Kinder, Jugend und Familie;51;Räuml.Planung, Entw., Geoinfo.;5113;Projekt soziale Stadt;5113010;Soziale Stadt Oberbarmen/Wichlinghausen
-GB 2.1;208;Kinder, Jugend und Familie;51;Räuml.Planung, Entw., Geoinfo.;5113;Projekt soziale Stadt;5113020;Soziale Stadt Ostersbaum
-GB 2.1;305;Gesundheitsamt;31;Soziale Leistungen;3111;Ärztlicher Dienst Schwerbehindertenrecht;3111010;Ärztlicher Dienst Schwerbehindertenrecht
-GB 2.1;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101010;Ärztlicher Dienst, mediz. Begutachtung
-GB 2.1;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101020;Kinder- und Jugendgesundheit
-GB 2.1;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101030;(entfallen in 2013) Zahngesundheit
-GB 2.1;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101040;Hilfe u.Beratung psychisch u.Suchtkranke
-GB 2.1;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101050;Infektionsschutz u. QS Gesundheit
-GB 2.1;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101060;KC Aids/STD Koordination/Beratung/Unters
-GB 2.1;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101070;KC Zahnmedizinischer Dienst
-GB 2.1;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101080;KC Arzneimittelüberwachung/Sozialpharmaz
-GB 2.2;200.2;GB-Büro 200.2;11;Innere Verwaltung;1107;Geschäftsbereichsleitung GB 2.2;1107010;GBL und Steuerungsunterstützung GB2.2
-GB 2.2;200.2;GB-Büro 200.2;25;Kultur und Wissenschaft;2501;Kulturförderung;2501010;Kulturbüro
-GB 2.2;200.2;GB-Büro 200.2;25;Kultur und Wissenschaft;2502;KULTURsekretariat NRW;2502010;KULTURsekretariat
-GB 2.2;200.2;GB-Büro 200.2;25;Kultur und Wissenschaft;2506;Theater und Konzerte;2506010;Zuschuss für Bühnen und Orchester GmbH
-GB 2.2;200.2;GB-Büro 200.2;25;Kultur und Wissenschaft;2506;Theater und Konzerte;2506020;Zuschuss für Tanztheater
-GB 2.2;206;Schulen;21;Schulträgeraufgaben;2104;Medienzentrum;2104010;Medienzentrum
-GB 2.2;206;Schulen;21;Schulträgeraufgaben;2105;Betreuungsangebote;2105010;Betreuungsangebote
-GB 2.2;206;Schulen;21;Schulträgeraufgaben;2106;Schülerbeförderung;2106010;Schülerbeförderung
-GB 2.2;206;Schulen;21;Schulträgeraufgaben;2111;Grundschulen;2111010;Grundschulen
-GB 2.2;206;Schulen;21;Schulträgeraufgaben;2112;Hauptschulen;2112010;Hauptschulen
-GB 2.2;206;Schulen;21;Schulträgeraufgaben;2113;Realschulen;2113010;Realschulen
-GB 2.2;206;Schulen;21;Schulträgeraufgaben;2114;Gymnasien;2114010;Gymnasien
-GB 2.2;206;Schulen;21;Schulträgeraufgaben;2115;Gesamtschulen;2115010;Gesamtschulen
-GB 2.2;206;Schulen;21;Schulträgeraufgaben;2116;Förderschulen;2116010;Förderschulen
-GB 2.2;206;Schulen;21;Schulträgeraufgaben;2117;Berufskollegs;2117010;Berufskollegs
-GB 2.2;206;Schulen;21;Schulträgeraufgaben;2117;Berufskollegs;2117020;Schulmensa Kohlstraße
-GB 2.2;206;Schulen;31;Soziale Leistungen;3104;Leistungen nach dem BaföG;3104010;Leistungen nach dem BAföG
-GB 2.2;209;Sport und Bäder;42;Sportförderung;4201;Bereitstellung/Betrieb ged. Sportanlagen;4201010;Turn- und Sporthallen
-GB 2.2;209;Sport und Bäder;42;Sportförderung;4201;Bereitstellung/Betrieb ged. Sportanlagen;4201020;Uni Halle
-GB 2.2;209;Sport und Bäder;42;Sportförderung;4202;Sportförderung;4202010;Sportförderung
-GB 2.2;209;Sport und Bäder;42;Sportförderung;4203;Bereitstellung/Betrieb Bäder;4203100;FB Mählersbeck
-GB 2.2;209;Sport und Bäder;42;Sportförderung;4203;Bereitstellung/Betrieb Bäder;4203020;Hallenbäder
-GB 2.2;209;Sport und Bäder;42;Sportförderung;4204;Bereitstellung/Betrieb Freisportanlagen;4204010;Sportaußenanlagen
-GB 2.2;209;Sport und Bäder;42;Sportförderung;4204;Bereitstellung/Betrieb Freisportanlagen;4204020;Stadion am Zoo
-GB 2.2;211;Orchester und Konzerte;25;Kultur und Wissenschaft;2508;(entfallen ab 2013) Orchester;2508010;(entfallen ab 2013) Sinfonieorchester
-GB 2.2;212;Bergische Musikschule;25;Kultur und Wissenschaft;2503;Musik- / Kunstschule;2503010;Bergische Musikschule
-GB 2.2;213;Historisches Zentrum;25;Kultur und Wissenschaft;2505;Archiv;2505010;Stadtarchiv
-GB 2.2;213;Historisches Zentrum;25;Kultur und Wissenschaft;2510;Historisches Zentrum;2510010;Historisches Zentrum
-GB 2.2;213;Historisches Zentrum;25;Kultur und Wissenschaft;2511;(entfallen ab 2012) Naturwissenschaftl. Sammlung;2511010;(entfallen ab 2012) Naturwissenschaftl. Sammlung
-GB 2.2;214;Stadtbibliothek;25;Kultur und Wissenschaft;2504;Bibliothek;2504010;Medien und Informationen
-GB 2.2;215;Zoologischer Garten;25;Kultur und Wissenschaft;2513;Tierpark;2513010;Zoologischer Garten
-GB 2.2;216;Von der Heydt-Museum;25;Kultur und Wissenschaft;2509;Von der Heydt-Museum;2509010;Sammlung+son.Leist. Von der Heydt-Museum
+GB 21;2001;GB-Büro 2001;11;Innere Verwaltung;1106;Geschäftsbereichsleitung GB 21;1106010;GBL und Steuerungsunterstützung GB21
+GB 21;2001;GB-Büro 2001;31;Soziale Leistungen;3101;Unterstützung von Senioren;3101010;Zuschuss zum Eigenbetrieb APH
+GB 21;201;Soziales;31;Soziale Leistungen;3102;Betreuung nach dem Betreuungsgesetz;3102040;Betreuung nach dem Betreuungsgesetz
+GB 21;201;Soziales;31;Soziale Leistungen;3103;Grundsicherung SGB II;3103050;Grundsicherung SGB II
+GB 21;201;Soziales;31;Soziale Leistungen;3110;Schwerbehindertenversorgung;3110010;Schwerbehindertenversorgung
+GB 21;201;Soziales;31;Soziale Leistungen;3110;Schwerbehindertenversorgung;3110020;Fürsorgestelle für Schwerbehinderte
+GB 21;201;Soziales;31;Soziale Leistungen;3113;(entfallen ab 2014) Grundversorgung und Leistungen SGB XII ;3113010;(entfallen ab 2014) Beratung und Leistung bei Behinderung 
+GB 21;201;Soziales;31;Soziale Leistungen;3113;(entfallen ab 2014) Grundversorgung und Leistungen SGB XII ;3113020;(entfallen ab 2014) Beratung und Lstg bei Pflegebedürftigk
+GB 21;201;Soziales;31;Soziale Leistungen;3113;(entfallen ab 2014) Grundversorgung und Leistungen SGB XII ;3113030;(entfallen ab 2014) HZL/Grundsicherung/andere soziale Lstg 
+GB 21;201;Soziales;31;Soziale Leistungen;3113;(entfallen ab 2014) Grundversorgung und Leistungen SGB XII ;3113040;(entfallen ab 2014) Hilfen Gesundheit/bessozSchwierigkeit 
+GB 21;201;Soziales;31;Soziale Leistungen;3114;Sonstige soziale Leistungen;3114010;Lastenausgleich
+GB 21;201;Soziales;31;Soziale Leistungen;3114;Sonstige soziale Leistungen;3114020;Leistungen der Unterhaltssicherung
+GB 21;201;Soziales;31;Soziale Leistungen;3117;Hilfen zLebensunterhalt (3KapSGB XII);3117010;Hilfen zLebensunterhalt (3KapSGB XII)
+GB 21;201;Soziales;31;Soziale Leistungen;3118;Grundsicherung iAlter (4 Kap SGB XII);3118010;Grundsicherung iAlter (4 Kap SGB XII)
+GB 21;201;Soziales;31;Soziale Leistungen;3119;Hilfen zur Gesundheit (5 Kap SGB XII);3119010;Hilfen zur Gesundheit (5 Kap SGB XII)
+GB 21;201;Soziales;31;Soziale Leistungen;3120;Eingliederungshilfe (6 Kap SGB XII);3120010;Eingliederungshilfe (6 Kap SGB XII)
+GB 21;201;Soziales;31;Soziale Leistungen;3121;Hilfe zur Pflege (7 Kap SGB XII);3121010;Hilfe zur Pflege (7 Kap SGB XII)
+GB 21;201;Soziales;31;Soziale Leistungen;3122;Hilfe bessozSchwierigk(8KapSGB XII);3122010;Hilfe bessozSchwierigk(8KapSGB XII)
+GB 21;201;Soziales;31;Soziale Leistungen;3123;Hilfe and Lebenslagen (9 Kap SGB XII);3123010;Hilfe and Lebenslagen (9 Kap SGB XII)
+GB 21;202;Tageseinrichtungen für Kinder;36;Kinder-, Jugend- u Familienhilfe;3601;Förderung von Kindern in Tagesbetreuung;3601010;Betrieb städtischer Kitas
+GB 21;202;Tageseinrichtungen für Kinder;36;Kinder-, Jugend- u Familienhilfe;3601;Förderung von Kindern in Tagesbetreuung;3601020;Förderung v Einrichtungen freier Träger
+GB 21;202;Tageseinrichtungen für Kinder;36;Kinder-, Jugend- u Familienhilfe;3602;Tagespflege;3602010;Tagespflege
+GB 21;204;Zuwanderung und Integration;12;Sicherheit und Ordnung;1209;Regelung des Aufenthalts von Ausländern;1209010;Aufenthaltsrechtliche Angel ABH
+GB 21;204;Zuwanderung und Integration;21;Schulträgeraufgaben;2102;(entfallen ab 2013) IntegrationsmaßnfKiJu aus Zuwfam;2102010;(entfallen ab 2013) IntegrationsmaßnfKiJu aus Zuwfam
+GB 21;204;Zuwanderung und Integration;31;Soziale Leistungen;3105;Hilfen nach AsylBLG;3105010;Hilfen nach AsylBLG
+GB 21;204;Zuwanderung und Integration;31;Soziale Leistungen;3105;Hilfen nach AsylBLG;3105020;gesperrt: Hilfen nach dem SGB XII für Fl
+GB 21;204;Zuwanderung und Integration;31;Soziale Leistungen;3105;Hilfen nach AsylBLG;3105030;gesperrt: Integrations- und Migrationsma
+GB 21;204;Zuwanderung und Integration;31;Soziale Leistungen;3109;Hilfen für Migranten bei Wohnproblemen;3109010;Verwaltung+Betrieb Übergangseinrichtung
+GB 21;204;Zuwanderung und Integration;31;Soziale Leistungen;3115;Hilfen nach dem SGB XII für Flüchtlinge;3115010;Hilfen nach dem SGB XII für Flüchtlinge
+GB 21;204;Zuwanderung und Integration;31;Soziale Leistungen;3116;Zentrum Integr/ Bildg, kult Vielfalt;3116010;(entfallen ab  2013) Integrations-/Migrationsmanagement
+GB 21;204;Zuwanderung und Integration;31;Soziale Leistungen;3116;Zentrum Integr/ Bildg, kult Vielfalt;3116020;Zentrum Integrat/Bildung, kultVielfalt
+GB 21;208;Kinder, Jugend und Familie;31;Soziale Leistungen;3112;Lstg ndUVG+HeranziehaußerhEinricht;3112010;Unterhaltsvorschuss
+GB 21;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u Familienhilfe;3603;Einrichtungen der Jugendarbeit;3603010;Förd KiJu in offenen Einrichtungen
+GB 21;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u Familienhilfe;3603;Einrichtungen der Jugendarbeit;3603060;Pl/Weiterentw Freiräume uSpielflächen
+GB 21;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u Familienhilfe;3604;Haus der Jugend Barmen;3604010;HdJ Bamen BGA
+GB 21;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u Familienhilfe;3605;Leist zFördjunger Menschen uFamilien;3605010;Hilfen zErziehung upräventive Projekte
+GB 21;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u Familienhilfe;3605;Leist zFördjunger Menschen uFamilien;3605050;Beistandschaften
+GB 21;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u Familienhilfe;3609;Elterngeld;3609010;Elterngeld
+GB 21;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u Familienhilfe;3610;Förd KiJu außerhalb von Einrichtungen;3610010;Förd KiJu außerhalb von  Einrichtungen
+GB 21;208;Kinder, Jugend und Familie;36;Kinder-, Jugend- u Familienhilfe;3611;Familien- u Schulpsychol Beratung;3611010;Familien- u Schulpsychol Beratung
+GB 21;208;Kinder, Jugend und Familie;51;RäumlPlanung, Entw, Geoinfo;5113;Projekt soziale Stadt;5113010;Soziale Stadt Oberbarmen/Wichlinghausen
+GB 21;208;Kinder, Jugend und Familie;51;RäumlPlanung, Entw, Geoinfo;5113;Projekt soziale Stadt;5113020;Soziale Stadt Ostersbaum
+GB 21;305;Gesundheitsamt;31;Soziale Leistungen;3111;Ärztlicher Dienst Schwerbehindertenrecht;3111010;Ärztlicher Dienst Schwerbehindertenrecht
+GB 21;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101010;Ärztlicher Dienst, mediz Begutachtung
+GB 21;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101020;Kinder- und Jugendgesundheit
+GB 21;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101030;(entfallen in 2013) Zahngesundheit
+GB 21;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101040;Hilfe uBeratung psychisch uSuchtkranke
+GB 21;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101050;Infektionsschutz u QS Gesundheit
+GB 21;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101060;KC Aids/STD Koordination/Beratung/Unters
+GB 21;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101070;KC Zahnmedizinischer Dienst
+GB 21;305;Gesundheitsamt;41;Gesundheitsdienste;4101;Aufgaben der unteren Gesundheitsbehörde;4101080;KC Arzneimittelüberwachung/Sozialpharmaz
+GB 22;2002;GB-Büro 2002;11;Innere Verwaltung;1107;Geschäftsbereichsleitung GB 22;1107010;GBL und Steuerungsunterstützung GB22
+GB 22;2002;GB-Büro 2002;25;Kultur und Wissenschaft;2501;Kulturförderung;2501010;Kulturbüro
+GB 22;2002;GB-Büro 2002;25;Kultur und Wissenschaft;2502;KULTURsekretariat NRW;2502010;KULTURsekretariat
+GB 22;2002;GB-Büro 2002;25;Kultur und Wissenschaft;2506;Theater und Konzerte;2506010;Zuschuss für Bühnen und Orchester GmbH
+GB 22;2002;GB-Büro 2002;25;Kultur und Wissenschaft;2506;Theater und Konzerte;2506020;Zuschuss für Tanztheater
+GB 22;206;Schulen;21;Schulträgeraufgaben;2104;Medienzentrum;2104010;Medienzentrum
+GB 22;206;Schulen;21;Schulträgeraufgaben;2105;Betreuungsangebote;2105010;Betreuungsangebote
+GB 22;206;Schulen;21;Schulträgeraufgaben;2106;Schülerbeförderung;2106010;Schülerbeförderung
+GB 22;206;Schulen;21;Schulträgeraufgaben;2111;Grundschulen;2111010;Grundschulen
+GB 22;206;Schulen;21;Schulträgeraufgaben;2112;Hauptschulen;2112010;Hauptschulen
+GB 22;206;Schulen;21;Schulträgeraufgaben;2113;Realschulen;2113010;Realschulen
+GB 22;206;Schulen;21;Schulträgeraufgaben;2114;Gymnasien;2114010;Gymnasien
+GB 22;206;Schulen;21;Schulträgeraufgaben;2115;Gesamtschulen;2115010;Gesamtschulen
+GB 22;206;Schulen;21;Schulträgeraufgaben;2116;Förderschulen;2116010;Förderschulen
+GB 22;206;Schulen;21;Schulträgeraufgaben;2117;Berufskollegs;2117010;Berufskollegs
+GB 22;206;Schulen;21;Schulträgeraufgaben;2117;Berufskollegs;2117020;Schulmensa Kohlstraße
+GB 22;206;Schulen;31;Soziale Leistungen;3104;Leistungen nach dem BaföG;3104010;Leistungen nach dem BAföG
+GB 22;209;Sport und Bäder;42;Sportförderung;4201;Bereitstellung/Betrieb ged Sportanlagen;4201010;Turn- und Sporthallen
+GB 22;209;Sport und Bäder;42;Sportförderung;4201;Bereitstellung/Betrieb ged Sportanlagen;4201020;Uni Halle
+GB 22;209;Sport und Bäder;42;Sportförderung;4202;Sportförderung;4202010;Sportförderung
+GB 22;209;Sport und Bäder;42;Sportförderung;4203;Bereitstellung/Betrieb Bäder;4203100;FB Mählersbeck
+GB 22;209;Sport und Bäder;42;Sportförderung;4203;Bereitstellung/Betrieb Bäder;4203020;Hallenbäder
+GB 22;209;Sport und Bäder;42;Sportförderung;4204;Bereitstellung/Betrieb Freisportanlagen;4204010;Sportaußenanlagen
+GB 22;209;Sport und Bäder;42;Sportförderung;4204;Bereitstellung/Betrieb Freisportanlagen;4204020;Stadion am Zoo
+GB 22;211;Orchester und Konzerte;25;Kultur und Wissenschaft;2508;(entfallen ab 2013) Orchester;2508010;(entfallen ab 2013) Sinfonieorchester
+GB 22;212;Bergische Musikschule;25;Kultur und Wissenschaft;2503;Musik- / Kunstschule;2503010;Bergische Musikschule
+GB 22;213;Historisches Zentrum;25;Kultur und Wissenschaft;2505;Archiv;2505010;Stadtarchiv
+GB 22;213;Historisches Zentrum;25;Kultur und Wissenschaft;2510;Historisches Zentrum;2510010;Historisches Zentrum
+GB 22;213;Historisches Zentrum;25;Kultur und Wissenschaft;2511;(entfallen ab 2012) Naturwissenschaftl Sammlung;2511010;(entfallen ab 2012) Naturwissenschaftl Sammlung
+GB 22;214;Stadtbibliothek;25;Kultur und Wissenschaft;2504;Bibliothek;2504010;Medien und Informationen
+GB 22;215;Zoologischer Garten;25;Kultur und Wissenschaft;2513;Tierpark;2513010;Zoologischer Garten
+GB 22;216;Von der Heydt-Museum;25;Kultur und Wissenschaft;2509;Von der Heydt-Museum;2509010;Sammlung+sonLeist Von der Heydt-Museum
 GB 4;400;GB-Büro 400;11;Innere Verwaltung;1109;Geschäftsbereichsleitung GB 4;1109010;GBL und Steuerungsunterstützung GB4
 GB 4;400;GB-Büro 400;11;Innere Verwaltung;1109;Geschäftsbereichsleitung GB 4;1109020;(entfallen in 2012) E-Government / Internet
 GB 4;400;GB-Büro 400;11;Innere Verwaltung;1109;Geschäftsbereichsleitung GB 4;1109030;(entfallen in 2012) Organisationsentwicklung
@@ -165,22 +165,22 @@ GB 4;400;GB-Büro 400;11;Innere Verwaltung;1109;Geschäftsbereichsleitung GB 4;1
 GB 4;400;GB-Büro 400;11;Innere Verwaltung;1109;Geschäftsbereichsleitung GB 4;1109060;EUROPA-Förderung und Europabüro
 GB 4;400;GB-Büro 400;11;Innere Verwaltung;1127;Fördermittelmanagement;1127010;Zentrales Fördermanagement
 GB 4;400;GB-Büro 400;57;Wirtschaft und Tourismus;5706;Regionale Kooperationen;5706010;Regionalagentur Bergisches Städtedreieck
-GB 4;302;Ordnungsamt;12;Sicherheit und Ordnung;1201;Ordnungsangelegenheiten;1201010;Maßnahmen d.Gefahrenabwehr, sonst. DL
+GB 4;302;Ordnungsamt;12;Sicherheit und Ordnung;1201;Ordnungsangelegenheiten;1201010;Maßnahmen dGefahrenabwehr, sonst DL
 GB 4;302;Ordnungsamt;12;Sicherheit und Ordnung;1201;Ordnungsangelegenheiten;1201020;Verkehrsüberwachung
-GB 4;302;Ordnungsamt;12;Sicherheit und Ordnung;1201;Ordnungsangelegenheiten;1201030;Gewerbe-,Veterinärsw.,Lebensmittelüberw.
+GB 4;302;Ordnungsamt;12;Sicherheit und Ordnung;1201;Ordnungsangelegenheiten;1201030;Gewerbe-,Veterinärsw,Lebensmittelüberw
 GB 4;302;Ordnungsamt;12;Sicherheit und Ordnung;1201;Ordnungsangelegenheiten;1201040;KFZ-Angelegenheiten
 GB 4;401;Allgemeine Dienste;11;Innere Verwaltung;1118;Customer Competence Center;1118010;CCC-SAP
-GB 4;401;Allgemeine Dienste;11;Innere Verwaltung;1120;Zentrale Beschaffungen;1120010;Zentr. Beschaffungen d.Gesamtverwaltung
+GB 4;401;Allgemeine Dienste;11;Innere Verwaltung;1120;Zentrale Beschaffungen;1120010;Zentr Beschaffungen dGesamtverwaltung
 GB 4;401;Allgemeine Dienste;11;Innere Verwaltung;1121;Zentrale Dienste;1121010;Postdienst
 GB 4;401;Allgemeine Dienste;11;Innere Verwaltung;1121;Zentrale Dienste;1121020;Sonstige Zentrale Dienste
 GB 4;401;Allgemeine Dienste;11;Innere Verwaltung;1121;Zentrale Dienste;1121040;Zentraleinkauf
 GB 4;401;Allgemeine Dienste;11;Innere Verwaltung;1121;Zentrale Dienste;1121050;Organisationsentwicklung
-GB 4;401;Allgemeine Dienste;11;Innere Verwaltung;1132;(entfallen in 2011) Schlüsselprojekte der Organisationsentw.;1132010;(Restabwicklung) Projekt NKF
-GB 4;401;Allgemeine Dienste;11;Innere Verwaltung;1132;(entfallen in 2011) Schlüsselprojekte der Organisationsentw.;1132030;(entfallen in 2011) Projekt EU-Dienstleistungsrichtlinie
-GB 4;402;Informat. u Kommunikation;11;Innere Verwaltung;1117;Technik. Informationsverarbeitung;1117010;Informationstechnische Infrastruktur
-GB 4;402;Informat. u Kommunikation;11;Innere Verwaltung;1117;Technik. Informationsverarbeitung;1117020;Rechenzentrum
-GB 4;402;Informat. u Kommunikation;11;Innere Verwaltung;1117;Technik. Informationsverarbeitung;1117030;Client Management und Consulting
-GB 4;402;Informat. u Kommunikation;11;Innere Verwaltung;1117;Technik. Informationsverarbeitung;1117040;IT-Steuerung und eGovernment
+GB 4;401;Allgemeine Dienste;11;Innere Verwaltung;1132;(entfallen in 2011) Schlüsselprojekte der Organisationsentw;1132010;(Restabwicklung) Projekt NKF
+GB 4;401;Allgemeine Dienste;11;Innere Verwaltung;1132;(entfallen in 2011) Schlüsselprojekte der Organisationsentw;1132030;(entfallen in 2011) Projekt EU-Dienstleistungsrichtlinie
+GB 4;402;Informat u Kommunikation;11;Innere Verwaltung;1117;Technik Informationsverarbeitung;1117010;Informationstechnische Infrastruktur
+GB 4;402;Informat u Kommunikation;11;Innere Verwaltung;1117;Technik Informationsverarbeitung;1117020;Rechenzentrum
+GB 4;402;Informat u Kommunikation;11;Innere Verwaltung;1117;Technik Informationsverarbeitung;1117030;Client Management und Consulting
+GB 4;402;Informat u Kommunikation;11;Innere Verwaltung;1117;Technik Informationsverarbeitung;1117040;IT-Steuerung und eGovernment
 GB 4;403;Finanzen;11;Innere Verwaltung;1116;Finanzmanagement und Rechnungswesen;1116010;Haushaltsmanagement
 GB 4;403;Finanzen;11;Innere Verwaltung;1116;Finanzmanagement und Rechnungswesen;1116020;Controlling
 GB 4;403;Finanzen;11;Innere Verwaltung;1116;Finanzmanagement und Rechnungswesen;1116030;Beteiligungsmanagement
@@ -188,11 +188,11 @@ GB 4;403;Finanzen;11;Innere Verwaltung;1116;Finanzmanagement und Rechnungswesen;
 GB 4;403;Finanzen;11;Innere Verwaltung;1116;Finanzmanagement und Rechnungswesen;1116050;Finanzbuchhaltung
 GB 4;403;Finanzen;11;Innere Verwaltung;1116;Finanzmanagement und Rechnungswesen;1116080;Steuern und sonstige Abgaben
 GB 4;403;Finanzen;11;Innere Verwaltung;1125;Grundstücksmanagement;1125010;Grundstücksmanagement
-GB 4;403;Finanzen;11;Innere Verwaltung;1126;GMW / Gemeinnütz. Wohnungsbauges.;1126010;GMW
+GB 4;403;Finanzen;11;Innere Verwaltung;1126;GMW / Gemeinnütz Wohnungsbauges;1126010;GMW
 GB 4;403;Finanzen;11;Innere Verwaltung;1135;Kaufabwicklung Grundstücke;1135010;Kaufabwicklung Grundstücke
 GB 4;403;Finanzen;12;Sicherheit und Ordnung;1215;Chemisches und Veterinäruntersuchungsamt;1215010;Chemisches und Veterinäruntersuchungsamt
-GB 4;403;Finanzen;25;Kultur und Wissenschaft;2512;Zuschuss Berg.Volkshochschule Zweckverb.;2512010;Zuschuss Berg.Volkshochschule Zweckverb.
-GB 4;403;Finanzen;51;Räuml.Planung, Entw., Geoinfo.;5115;(entfallen ab 2012) Umsetzung Konjunkturprogramm;5115010;(entfallen ab 2012) Umsetzung Konjunkturprogramm
+GB 4;403;Finanzen;25;Kultur und Wissenschaft;2512;Zuschuss BergVolkshochschule Zweckverb;2512010;Zuschuss BergVolkshochschule Zweckverb
+GB 4;403;Finanzen;51;RäumlPlanung, Entw, Geoinfo;5115;(entfallen ab 2012) Umsetzung Konjunkturprogramm;5115010;(entfallen ab 2012) Umsetzung Konjunkturprogramm
 GB 4;403;Finanzen;53;Ver- und Entsorgung;5301;Versorgung;5301010;Energie- und Gasversorgung
 GB 4;403;Finanzen;53;Ver- und Entsorgung;5302;Abfallwirtschaft;5302010;Abfallgebühren Vor- und Nachkalkulation
 GB 4;403;Finanzen;53;Ver- und Entsorgung;5303;Wasser und Abwasser Wuppertal (WAW);5303010;Wasser und Abwasser Wuppertal (WAW)
@@ -202,12 +202,12 @@ GB 4;403;Finanzen;54;Verkehrsflächen/-anlagen,ÖPNV;5405;Straßenreinigung und 
 GB 4;403;Finanzen;54;Verkehrsflächen/-anlagen,ÖPNV;5405;Straßenreinigung und Winterdienst;5405020;Winterdienst
 GB 4;403;Finanzen;54;Verkehrsflächen/-anlagen,ÖPNV;5406;Schwebebahn Infrastruktur;5406010;Schwebebahn Infrastruktur
 GB 4;403;Finanzen;57;Wirtschaft und Tourismus;5701;Wirtschaftsförderung;5701010;Wirtschafts- und  Technologieförderung
-GB 4;403;Finanzen;57;Wirtschaft und Tourismus;5702;Stadtmarketing und Wirtschaftskomm.;5702010;Stadtmarketing u. Wirtschaftskomm.
+GB 4;403;Finanzen;57;Wirtschaft und Tourismus;5702;Stadtmarketing und Wirtschaftskomm;5702010;Stadtmarketing u Wirtschaftskomm
 GB 4;403;Finanzen;57;Wirtschaft und Tourismus;5703;Allgemeine Einrichtungen;5703010;Historische Stadthalle Wuppertal
 GB 4;403;Finanzen;57;Wirtschaft und Tourismus;5704;Anteile an Unternehmen;5704010;Sonstige Beteiligungen
 GB 4;403;Finanzen;57;Wirtschaft und Tourismus;5705;Bergische Entwicklungsargentur;5705010;Bergische Entwicklungsagentur (BKZ)
-GB 4;403;Finanzen;61;Allgemeine Finanzwirtschaft;6101;Steuern,allgemeine Zuweisungen u.Umlagen;6101010;Steuern
-GB 4;403;Finanzen;61;Allgemeine Finanzwirtschaft;6101;Steuern,allgemeine Zuweisungen u.Umlagen;6101020;Allgemeine Zuweisungen und Umlagen
+GB 4;403;Finanzen;61;Allgemeine Finanzwirtschaft;6101;Steuern,allgemeine Zuweisungen uUmlagen;6101010;Steuern
+GB 4;403;Finanzen;61;Allgemeine Finanzwirtschaft;6101;Steuern,allgemeine Zuweisungen uUmlagen;6101020;Allgemeine Zuweisungen und Umlagen
 GB 4;403;Finanzen;61;Allgemeine Finanzwirtschaft;6102;Globale Minderausgaben;6102010;Globale Minderausgaben
 GB 4;403;Finanzen;61;Allgemeine Finanzwirtschaft;6104;Sonstige allgemeine Finanzwirtschaft;6104010;Kreditwirtschaft
 GB 4;403;Finanzen;61;Allgemeine Finanzwirtschaft;6104;Sonstige allgemeine Finanzwirtschaft;6104020;Sonstige allgemeine Finanzwirtschaft
@@ -221,6 +221,6 @@ GB 4;404;Personal;11;Innere Verwaltung;1115;Personalmanagement;1115040;Personala
 GB 4;404;Personal;11;Innere Verwaltung;1124;Infrastrukturelles Immobilienmanagement;1124010;Kantine
 GB 4;404;Personal;11;Innere Verwaltung;1128;Personalnebenkosten;1128010;Personalnebenkosten
 GB 4;404;Personal;11;Innere Verwaltung;1130;Zentrales Personalkosten-Rest-Budget;1130010;Zentrales Personalkosten-Rest-Budget
-GB 4;404;Personal;11;Innere Verwaltung;1134;Mitgliedschaften;1134010;Beitr.mitgl.sch. im Gesamtverw.interesse
+GB 4;404;Personal;11;Innere Verwaltung;1134;Mitgliedschaften;1134010;Beitrmitglsch im Gesamtverwinteresse
 GPR;GPR;Gesamtpersonalrat;11;Innere Verwaltung;1111;Beschäftigtenvertretung;1111010;Gesamtpersonalrat
 GPR;GPR;Gesamtpersonalrat;11;Innere Verwaltung;1111;Beschäftigtenvertretung;1111020;Gesamtschwerbehindertenvertretung

@@ -1,30 +1,30 @@
-"";"Ergebnis des Vorvorvorjahres K4/2011";"Ergebnis des Vorvorjahres K4/2012";"Ansatz des Vorjahres K4/2013";"Planung des Haushaltsjahres K4/2014";"Planung des Haushaltsjahres K4/2015";"Planung des Haushaltsjahres K4/2016";"Planung des Haushaltsjahres K4/2017";"Planung des Haushaltsjahres K4/2018"
-"1 + Steuern und ähnliche Abgaben";"";"";"";"";"";"";"";""
-"2 + Zuwendungen und allgemeine Umlagen";"";"";"";"";"";"";"";""
-"3 + Sonstige Transfererträge";"";"";"";"";"";"";"";""
-"4 + Öffentlich-rechtliche Leistungsentgelte";"";"";"";"";"";"";"";""
-"5 + Privatrechtliche Leistungsentgelte";"";"";"";"";"";"";"";""
-"6 + Kostenerstattungen und Kostenumlagen";"-4.479,87 EUR";"-24.722,74 EUR";"-9.170,88 EUR";"-3.392,42 EUR";"-3.438,13 EUR";"-3.473,05 EUR";"-3.507,13 EUR";"-3.515,18 EUR"
-"7 + Sonstige ordentliche Erträge";"";"";"";"";"";"";"";""
-"8 + Aktivierte Eigenleistungen";"";"";"";"";"";"";"";""
-"9 +/- Bestandsveränderungen";"";"";"";"";"";"";"";""
-"10 = Ordentliche Erträge";"-4.479,87 EUR";"-24.722,74 EUR";"-9.170,88 EUR";"-3.392,42 EUR";"-3.438,13 EUR";"-3.473,05 EUR";"-3.507,13 EUR";"-3.515,18 EUR"
-"11 - Personalaufwendungen";"653.549,04 EUR";"494.635,08 EUR";"224.218,40 EUR";"94.533,88 EUR";"95.576,96 EUR";"96.694,66 EUR";"98.164,70 EUR";"99.721,90 EUR"
-"12 - Versorgungsaufwendungen";"";"";"";"";"";"";"";""
-"13 - Aufwendungen für Sach- und Dienstleistungen";"16.013,71 EUR";"9.491,08 EUR";"13.856,92 EUR";"9.099,08 EUR";"9.166,28 EUR";"9.244,64 EUR";"9.300,80 EUR";"9.356,72 EUR"
-"14 - Bilanzielle Abschreibungen";"346,94 EUR";"92,46 EUR";"";"";"";"";"";""
-"15 - Transferaufwendungen";"";"";"";"";"";"";"";""
-"16 - Sonstige ordentliche Aufwendungen";"18.343,39 EUR";"15.590,99 EUR";"10.751,12 EUR";"6.693,72 EUR";"6.693,72 EUR";"6.693,72 EUR";"6.693,72 EUR";"6.693,72 EUR"
-"17 = Ordentliche Aufwendungen";"688.253,08 EUR";"519.809,61 EUR";"248.826,44 EUR";"110.326,68 EUR";"111.436,96 EUR";"112.633,02 EUR";"114.159,22 EUR";"115.772,34 EUR"
-"18 = Ordentliches Ergebnis (= 10 + 17)";"683.773,21 EUR";"495.086,87 EUR";"239.655,56 EUR";"106.934,26 EUR";"107.998,83 EUR";"109.159,97 EUR";"110.652,09 EUR";"112.257,16 EUR"
-"19 + Finanzerträge";"";"";"";"";"";"";"";""
-"20 - Zinsen und sonstige Finanzaufwendungen";"";"";"";"";"";"";"";""
-"21 = Finanzergebnis (= 19 + 20)";"";"";"";"";"";"";"";""
-"22 = Ergebnis der laufenden Verwaltungstätigkeit (=18 + 21)";"683.773,21 EUR";"495.086,87 EUR";"239.655,56 EUR";"106.934,26 EUR";"107.998,83 EUR";"109.159,97 EUR";"110.652,09 EUR";"112.257,16 EUR"
-"23 + Außerordentliche Erträge";"";"";"";"";"";"";"";""
-"24 - Außerordentliche Aufwendungen";"";"";"";"";"";"";"";""
-"25 = Außerordentliches Ergebnis (= 23 + 24)";"";"";"";"";"";"";"";""
-"26 = Ergebnis vor internen Leistungsbeziehungen (= 22 + 25)";"683.773,21 EUR";"495.086,87 EUR";"239.655,56 EUR";"106.934,26 EUR";"107.998,83 EUR";"109.159,97 EUR";"110.652,09 EUR";"112.257,16 EUR"
-"27 + Erträge aus internen Leistungsbeziehungen";"-692.301,11 EUR";"-549.882,57 EUR";"-241.567,23 EUR";"-107.952,48 EUR";"-108.936,33 EUR";"-110.010,34 EUR";"-111.392,90 EUR";"-112.882,09 EUR"
-"28 - Aufwendungen aus internen Leistungsbeziehungen";"64.660,42 EUR";"74.810,40 EUR";"21.498,48 EUR";"9.771,18 EUR";"9.770,46 EUR";"9.770,10 EUR";"9.772,98 EUR";"9.777,54 EUR"
-"29 = Teilergebnis  (= 26, 27, 28)";"56.132,52 EUR";"20.014,70 EUR";"19.586,81 EUR";"8.752,96 EUR";"8.832,96 EUR";"8.919,73 EUR";"9.032,17 EUR";"9.152,61 EUR"
+;Ergebnis des Vorvorvorjahres K4/2011;Ergebnis des Vorvorjahres K4/2012;Ansatz des Vorjahres K4/2013;Planung des Haushaltsjahres K4/2014;Planung des Haushaltsjahres K4/2015;Planung des Haushaltsjahres K4/2016;Planung des Haushaltsjahres K4/2017;Planung des Haushaltsjahres K4/2018
+1 + Steuern und ähnliche Abgaben;;;;;;;;
+2 + Zuwendungen und allgemeine Umlagen;;;;;;;;
+3 + Sonstige Transfererträge;;;;;;;;
+4 + Öffentlich-rechtliche Leistungsentgelte;;;;;;;;
+5 + Privatrechtliche Leistungsentgelte;;;;;;;;
+6 + Kostenerstattungen und Kostenumlagen;-4479,87;-24722,74;-9170,88;-3392,42;-3438,13;-3473,05;-3507,13;-3515,18
+7 + Sonstige ordentliche Erträge;;;;;;;;
+8 + Aktivierte Eigenleistungen;;;;;;;;
+9 +/- Bestandsveränderungen;;;;;;;;
+10 = Ordentliche Erträge;-4479,87;-24722,74;-9170,88;-3392,42;-3438,13;-3473,05;-3507,13;-3515,18
+11 - Personalaufwendungen;653549,04;494635,08;224218,40;94533,88;95576,96;96694,66;98164,70;99721,90
+12 - Versorgungsaufwendungen;;;;;;;;
+13 - Aufwendungen für Sach- und Dienstleistungen;16013,71;9491,08;13856,92;9099,08;9166,28;9244,64;9300,80;9356,72
+14 - Bilanzielle Abschreibungen;346,94;92,46;;;;;;
+15 - Transferaufwendungen;;;;;;;;
+16 - Sonstige ordentliche Aufwendungen;18343,39;15590,99;10751,12;6693,72;6693,72;6693,72;6693,72;6693,72
+17 = Ordentliche Aufwendungen;688253,08;519809,61;248826,44;110326,68;111436,96;112633,02;114159,22;115772,34
+18 = Ordentliches Ergebnis (= 10 + 17);683773,21;495086,87;239655,56;106934,26;107998,83;109159,97;110652,09;112257,16
+19 + Finanzerträge;;;;;;;;
+20 - Zinsen und sonstige Finanzaufwendungen;;;;;;;;
+21 = Finanzergebnis (= 19 + 20);;;;;;;;
+22 = Ergebnis der laufenden Verwaltungstätigkeit (=18 + 21);683773,21;495086,87;239655,56;106934,26;107998,83;109159,97;110652,09;112257,16
+23 + Außerordentliche Erträge;;;;;;;;
+24 - Außerordentliche Aufwendungen;;;;;;;;
+25 = Außerordentliches Ergebnis (= 23 + 24);;;;;;;;
+26 = Ergebnis vor internen Leistungsbeziehungen (= 22 + 25);683773,21;495086,87;239655,56;106934,26;107998,83;109159,97;110652,09;112257,16
+27 + Erträge aus internen Leistungsbeziehungen;-692301,11;-549882,57;-241567,23;-107952,48;-108936,33;-110010,34;-111392,90;-112882,09
+28 - Aufwendungen aus internen Leistungsbeziehungen;64660,42;74810,40;21498,48;9771,18;9770,46;9770,10;9772,98;9777,54
+29 = Teilergebnis  (= 26, 27, 28);56132,52;20014,70;19586,81;8752,96;8832,96;8919,73;9032,17;9152,61

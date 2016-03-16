@@ -1,16 +1,16 @@
-"TFP Investitionssammelmaßnahmen Doppelhaushalt";"Ergebnis  &NKF_TKWI&";"Ergebnis  &NKF_TKWI&";"Ansatz   2011";"Ansatz HHJ  2012";"VE 2012";"Ansatz HHJ 2013";"VE 2013";"Planung  2014";"Planung  2015";"Planung  2016"
-"TFP Investitionssammelmaßnahmen";"EUR";"EUR";"EUR";"EUR";"";"EUR";"";"EUR";"EUR";"EUR"
-"1 - Einzahlungen aus Investitionszuwendungen";"-150.000";"-48.234";"";"";"";"";"";"";"";""
-"2 - Einzahlungen aus Veräußerungen von Sachanlagen";"";"";"";"";"";"";"";"";"";""
-"3 - Einzahlungen aus Veräußerungen von Finanzanlagen";"";"";"";"";"";"";"";"";"";""
-"4- Einzahlungen aus Beiträgen und ähnlichen Entgelten";"-409.722";"";"-750.000";"-500.000";"";"-500.000";"";"-500.000";"-500.000";"-500.000"
-"5 - Sonstige Investitionseinzahlungen";"";"";"";"";"";"";"";"";"";""
-"6 - Summe der investiven Einzahlungen";"-559.722";"-48.234";"-750.000";"-500.000";"";"-500.000";"";"-500.000";"-500.000";"-500.000"
-"7 - Auszahlungen für den Erwerb von Grundstücken/Gebäuden";"";"";"";"";"";"";"";"";"";""
-"8 - Auszahlungen für Baumaßnahmen";"";"";"";"";"";"";"";"";"";""
-"9 - Auszahlungen für den Erwerb von bewegl. Anlagevermögen";"546";"235";"";"";"";"";"";"";"";""
-"10 - Auszahlungen für den Erwerb von Finanzanlagen";"";"";"";"";"";"";"";"";"";""
-"11 - Auszahlung für aktivierbare Zuwendungen test bw";"7.785.478";"5.138.217";"7.121.000";"10.083.000";"";"9.684.000";"";"10.100.000";"9.900.000";"10.100.000"
-"12 - Sonstige Investitionsauszahlungen";"";"";"";"";"";"";"";"";"";""
-"13 - Summe der investiven Auszahlungen";"7.786.024";"5.138.452";"7.121.000";"10.083.000";"";"9.684.000";"";"10.100.000";"9.900.000";"10.100.000"
-"4 = Saldo: (Einzahlungen ./. Auszahlungen)";"7.226.302";"5.090.218";"6.371.000";"9.583.000";"";"9.184.000";"";"9.600.000";"9.400.000";"9.600.000"
+TFP Investitionssammelmaßnahmen Doppelhaushalt;Ergebnis  &NKF_TKWI&;Ergebnis  &NKF_TKWI&;Ansatz   2011;Ansatz HHJ  2012;VE 2012;Ansatz HHJ 2013;VE 2013;Planung  2014;Planung  2015;Planung  2016
+TFP Investitionssammelmaßnahmen;EUR;EUR;EUR;EUR;;EUR;;EUR;EUR;EUR
+1 - Einzahlungen aus Investitionszuwendungen;-150000;-48234;;;;;;;;
+2 - Einzahlungen aus Veräußerungen von Sachanlagen;;;;;;;;;;
+3 - Einzahlungen aus Veräußerungen von Finanzanlagen;;;;;;;;;;
+4- Einzahlungen aus Beiträgen und ähnlichen Entgelten;-409722;;-750000;-500000;;-500000;;-500000;-500000;-500000
+5 - Sonstige Investitionseinzahlungen;;;;;;;;;;
+6 - Summe der investiven Einzahlungen;-559722;-48234;-750000;-500000;;-500000;;-500000;-500000;-500000
+7 - Auszahlungen für den Erwerb von Grundstücken/Gebäuden;;;;;;;;;;
+8 - Auszahlungen für Baumaßnahmen;;;;;;;;;;
+9 - Auszahlungen für den Erwerb von bewegl Anlagevermögen;546;235;;;;;;;;
+10 - Auszahlungen für den Erwerb von Finanzanlagen;;;;;;;;;;
+11 - Auszahlung für aktivierbare Zuwendungen test bw;7785478;5138217;7121000;10083000;;9684000;;10100000;9900000;10100000
+12 - Sonstige Investitionsauszahlungen;;;;;;;;;;
+13 - Summe der investiven Auszahlungen;7786024;5138452;7121000;10083000;;9684000;;10100000;9900000;10100000
+4 = Saldo: (Einzahlungen / Auszahlungen);7226302;5090218;6371000;9583000;;9184000;;9600000;9400000;9600000
